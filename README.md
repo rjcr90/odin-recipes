@@ -1,4 +1,4 @@
 # odin-recipes
-Recipe project for TOP
+A basic HTML website with some easy recipes.
 
-I am currently working on basic HTML education.
+Live site: https://rjcr90.github.io/odin-recipes/
